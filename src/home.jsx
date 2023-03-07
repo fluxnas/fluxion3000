@@ -14,8 +14,6 @@ export default function home() {
       <img src={logo} alt="logo" />
     </Link> */}
 
-
-
     </div>
   )
 }
